@@ -1,0 +1,13 @@
+This application set and delete a password on a pdf file
+
+Install the virtual environment:
+python -m venv env
+
+Install requirements from file requirements.txt:
+pip install -r requirements.txt
+
+Run the script:
+python ./main.py
+
+
+Have a good day!
